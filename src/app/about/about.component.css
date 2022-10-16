@@ -1,0 +1,25 @@
+
+.about_main{
+    background-size: cover;
+    background-image: url("../../assets/images_about/testimonial-bg.jpg");
+    background-position: center;
+    min-height: 100vh;
+ }
+
+h1{
+    font-size: 100px;
+    margin-left: 3%;
+    color: orange;
+}
+.matter{
+    margin-top: 5%;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%;
+    backdrop-filter: blur(1px)
+}
+p{
+    color: white;
+}
+
+

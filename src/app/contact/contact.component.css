@@ -1,0 +1,22 @@
+.contact_main{
+   background-image: url(../../assets/images_contact/contact-1.jpg);
+   background-size: cover;
+   min-height: 100vh;
+   background-color: antiquewhite;
+}
+ h2{
+    margin-left: 4%;
+    color: orange;
+    font-size: 100px;
+ }
+ p{ margin-top: 10%;
+    margin-left: 4%;
+    color: black;
+    backdrop-filter: blur(10px)
+ }
+ .row_main{
+    margin-left: 4%;
+ }
+ .label_n{
+    color: black;
+ }
